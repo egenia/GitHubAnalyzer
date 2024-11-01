@@ -1,6 +1,6 @@
 # GitHubAnalyzer
 
-GitHubAnalyzer est un script Python puissant qui analyse les dépôts GitHub en récupérant des informations essentielles, telles que le nombre de commits, les contributeurs et un résumé du fichier README. En utilisant le modèle de summarisation BART de Hugging Face, ce projet génère des résumés clairs et concis des fichiers README.
+GitHubAnalyzer est un script Python puissant qui analyse les dépôts GitHub en récupérant des informations essentielles, telles que le nombre de commits, les contributeurs et un résumé du fichier README.
 
 ## Table des matières
 
