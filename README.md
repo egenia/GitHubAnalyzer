@@ -65,7 +65,7 @@ Avant d'exécuter le script, assurez-vous que les éléments suivants sont insta
 
 1. **Remplissez le fichier Excel :**
 
-   Ouvrez le fichier Excel (nommé `urls.xlsx`), puis dans la colonne `urls`, indiquez les URLs des dépôts GitHub que vous souhaitez analyser.
+   Ouvrez le fichier Excel (nommé `urls.xlsx`), puis dans la colonne `url`, indiquez les URLs des dépôts GitHub que vous souhaitez analyser.
 
    Exemple de contenu du fichier `urls.xlsx` :
 
